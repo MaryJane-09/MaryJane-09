@@ -1,54 +1,48 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:7A5CFA&text=MaryJane%20💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20In%20Progress&descAlignY=58"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7A5CFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+MaryJane+👋;Go+Backend+Developer+in+Progress;Building+Projects+at+01Edu;Build.+Debug.+Grow.✨" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=700&lines=Building+cool+things+with+Go+⚡;01Edu+Student+💻;Backend+Developer+in+Progress+🚀;Build.+Debug.+Grow.+✨" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=MaryJane-09&data=followers,repositories,stars,commits&theme=dark" />
 
 </div>
 
 ---
 
-# 💫 About Me
+# 👩🏽‍💻 About Me
 
 ```yaml
-current_focus:
-  - Backend Development
+currently_learning:
   - Golang
-  - APIs & Servers
-  - System Design
-
-education:
-  - 01Edu Software Engineering
-
-interests:
-  - Coding
-  - Open Source
-  - Building Projects
+  - APIs
+  - Backend Architecture
   - Problem Solving
 
-life_motto: "Build. Debug. Grow."
+focus:
+  - Building real-world projects
+  - Improving coding skills daily
+  - Team collaboration
 ```
 
 ---
 
-# ⚒ Tech Arsenal
+# ⚒ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,git,github,linux,vscode,html,css"/>
+<img src="https://skillicons.dev/icons?i=go,js,python,c,html,css,git,github,vscode,linux,bash" />
 
 </div>
 
 ---
 
-# 🚀 Current Focus
+# 🚀 Current Goals
 
-- ⚡ Building backend projects with Go
-- 🌱 Improving problem-solving skills
-- 🤝 Collaborating on real-world projects
-- 🚀 Learning scalable backend architecture
+- 🔥 Become an excellent backend engineer
+- 🚀 Build scalable applications
+- 📚 Master Go & system design
+- 🤝 Collaborate on meaningful projects
 
 ---
 
@@ -56,12 +50,27 @@ life_motto: "Build. Debug. Grow."
 
 <div align="center">
 
-<a href="https://github.com/mentor1">@mentor1</a> •
-<a href="https://github.com/mentor2">@mentor2</a> •
-<a href="https://github.com/mentor3">@mentor3</a> •
-<a href="https://github.com/mentor4">@mentor4</a>
+`@mentor1` • `@mentor2` • `@mentor3` • `@mentor4`
 
 </div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaryJane-09&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MaryJane-09&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryJane-09&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -70,15 +79,7 @@ life_motto: "Build. Debug. Grow."
 <div align="center">
 
 <a href="https://github.com/MaryJane-09">
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://linkedin.com">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 </div>
@@ -87,6 +88,6 @@ life_motto: "Build. Debug. Grow."
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:7A5CFA"/>
+### ✨ "Build. Debug. Grow."
 
 </div>
