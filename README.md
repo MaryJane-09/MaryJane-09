@@ -83,8 +83,6 @@ life_motto: "Build. Debug. Grow."
 
 <div align="center">
 
-//<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaryJane-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaryJane-09&theme=tokyonight&hide_border=true&background=00000000"/>
 
 <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaryJane-09&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
