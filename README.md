@@ -1,49 +1,130 @@
-<h1 align="center">👋 Hello, I'm Nzekwe chinaza</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=01Edu+Student;Go+Developer+in+Progress;Building+Projects+Daily&center=true&width=500&height=45">
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:7A5CFA&text=MJ%20👩🏽‍💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20In%20Progress&descAlignY=58"/>
 
----
+<br>
 
-## 💫 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=700&lines=Building+cool+things+with+Go+⚡;01Edu+Student+💻;Backend+Developer+in+Progress+🚀;Build.+Debug.+Grow.+✨" />
 
-- 💻 Passionate aspiring developer
-- 🚀 Learning Go, backend development & problem solving
-- 🌱 Building real-world projects at 01Edu
-- ✨ Build. Debug. Grow.
+<br><br>
 
----
+<img src="https://github-widgetbox.vercel.app/api/profile?username=MaryJane-09&data=followers,repositories,stars,commits&theme=dark"/>
 
-## 🛠 My Skill Set
-
-<p>
-  <img src="https://skillicons.dev/icons?i=go,github,vscode" />
-</p>
+</div>
 
 ---
 
-## 🤝 Mentors
+# 💫 About Me
 
-- @casseykingsely77
-- @Godswill Sekav Apya
-- @gabriel Abyaga
-- @isacc
+<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFvMnR5OXF0Y3V5bTRwbHMyMWI4M3d2aG5hbnV0NWFmMWQ3dG5hZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+
+```yaml
+current_focus:
+  - Backend Development
+  - Golang
+  - APIs & Servers
+  - System Design
+
+education:
+  - 01Edu Software Engineering
+
+hobbies:
+  - Coding
+  - Learning new tech
+  - Building projects
+  - Solving problems
+
+life_motto: "Build. Debug. Grow."
+```
+
+<br><br>
 
 ---
 
-## 🌐 Connect With Me
+# ⚒ Tech Arsenal
 
-<p>
-  <a href="https://github.com/MaryJane-09">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,js,python,c,html,css,bash,linux,git,github,vscode,docker,mysql"/>
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Current Mission
 
-![](https://github-readme-stats.vercel.app/api?username=MaryJane-09&theme=tokyonight&show_icons=true)
+<div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MaryJane-09&theme=tokyonight)
+| Goal | Progress |
+|---|---|
+| Learn Advanced Go | ████████░░ |
+| Backend Development | ███████░░░ |
+| Open Source Contributions | █████░░░░░ |
+| System Design | ████░░░░░░ |
+
+</div>
+
+---
+
+# 🤝 Mentors & Inspirations
+
+<div align="center">
+
+<a href="#">🌟 Mentor 1</a> •
+<a href="#">🌟 Mentor 2</a> •
+<a href="#">🌟 Mentor 3</a> •
+<a href="#">🌟 Mentor 4</a>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaryJane-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaryJane-09&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaryJane-09&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MaryJane-09&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/MaryJane-09">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:7A5CFA"/>
+
+</div>
