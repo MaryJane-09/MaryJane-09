@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:7A5CFA&text=Chinaza%20💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20In%20Progress&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:7A5CFA&text=MaryJane%20💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20In%20Progress&descAlignY=58"/>
 
 <br>
 
@@ -61,7 +61,7 @@ life_motto: "Build. Debug. Grow."
 <div align="center">
 
 <a href="https://github.com/mentor1">@cassykingsley77</a> •
-<a href="https://github.com/mentor2">@mentor2</a> •
+<a href="https://github.com/mentor2">@Godswill Sekav Apya</a> •
 <a href="https://github.com/mentor3">@mentor3</a> •
 <a href="https://github.com/mentor4">@mentor4</a>
 
