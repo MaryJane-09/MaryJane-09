@@ -91,11 +91,6 @@ life_motto: "Build. Debug. Grow."
 
 ---
 
-## 📊 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&theme=github-dark"/>
-
-
 # 🏆 Achievements
 
 <div align="center">
