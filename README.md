@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm MaryJane</h1>
 
-<!--
-**MaryJane-09/MaryJane-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=01Edu+Student;Go+Developer+in+Progress;Building+Projects+Daily&center=true&width=500&height=45">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💫 About Me
+
+- 💻 Passionate aspiring developer
+- 🚀 Learning Go, backend development & problem solving
+- 🌱 Building real-world projects at 01Edu
+- ✨ Build. Debug. Grow.
+
+---
+
+## 🛠 My Skill Set
+
+<p>
+  <img src="https://skillicons.dev/icons?i=go,js,python,c,git,github,vscode" />
+</p>
+
+---
+
+## 🤝 Mentors
+
+- @casseykingsely77
+- @Godswill Sekav Apya
+- @gabriel Abyaga
+- @isacc
+
+---
+
+## 🌐 Connect With Me
+
+<p>
+  <a href="https://github.com/MaryJane-09">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=MaryJane-09&theme=tokyonight&show_icons=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=MaryJane-09&theme=tokyonight)
