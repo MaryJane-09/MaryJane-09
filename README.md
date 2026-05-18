@@ -1,48 +1,68 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7A5CFA&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+MaryJane+👋;Go+Backend+Developer+in+Progress;Building+Projects+at+01Edu;Build.+Debug.+Grow.✨" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:7A5CFA&text=MaryJane%20💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20In%20Progress&descAlignY=58"/>
 
 <br>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=MaryJane-09&data=followers,repositories,stars,commits&theme=dark" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=700&lines=Building+cool+things+with+Go+⚡;01Edu+Student+💻;Backend+Developer+in+Progress+🚀;Build.+Debug.+Grow.+✨" />
+
+<br><br>
+
+<img src="https://github-widgetbox.vercel.app/api/profile?username=MaryJane-09&data=followers,repositories,stars,commits&theme=dark"/>
 
 </div>
 
 ---
 
-# 👩🏽‍💻 About Me
+# 💫 About Me
+
+<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFvMnR5OXF0Y3V5bTRwbHMyMWI4M3d2aG5hbnV0NWFmMWQ3dG5hZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
 ```yaml
-currently_learning:
+current_focus:
+  - Backend Development
   - Golang
-  - APIs
-  - Backend Architecture
-  - Problem Solving
+  - APIs & Servers
+  - System Design
 
-focus:
-  - Building real-world projects
-  - Improving coding skills daily
-  - Team collaboration
+education:
+  - 01Edu Software Engineering
+
+hobbies:
+  - Coding
+  - Learning new tech
+  - Building projects
+  - Solving problems
+
+life_motto: "Build. Debug. Grow."
 ```
+
+<br><br>
 
 ---
 
-# ⚒ Tech Stack
+# ⚒ Tech Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,js,python,c,html,css,git,github,vscode,linux,bash" />
+<img src="https://skillicons.dev/icons?i=go,html,linux,git,github,vscode"/>
 
 </div>
 
 ---
 
-# 🚀 Current Goals
+# 🚀 Current Mission
 
-- 🔥 Become an excellent backend engineer
-- 🚀 Build scalable applications
-- 📚 Master Go & system design
-- 🤝 Collaborate on meaningful projects
+<div align="center">
+
+| Goal | Progress |
+|---|---|
+| Learn Advanced Go | ████████░░ |
+| Backend Development | ███████░░░ |
+| Open Source Contributions | █████░░░░░ |
+| System Design | ████░░░░░░ |
+
+</div>
 
 ---
 
@@ -50,7 +70,10 @@ focus:
 
 <div align="center">
 
-`@mentor1` • `@mentor2` • `@mentor3` • `@mentor4`
+<a href="#">🌟 Mentor 1</a> •
+<a href="#">🌟 Mentor 2</a> •
+<a href="#">🌟 Mentor 3</a> •
+<a href="#">🌟 Mentor 4</a>
 
 </div>
 
@@ -60,17 +83,23 @@ focus:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MaryJane-09&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MaryJane-09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MaryJane-09&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaryJane-09&theme=tokyonight&hide_border=true&background=00000000"/>
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaryJane-09&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
 </div>
 
 ---
 
-# 🌱 Contribution Graph
+# 🏆 Achievements
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MaryJane-09&theme=tokyo-night&hide_border=true"/>
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MaryJane-09&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
 
 ---
 
@@ -79,7 +108,15 @@ focus:
 <div align="center">
 
 <a href="https://github.com/MaryJane-09">
-<img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=twitter"/>
 </a>
 
 </div>
@@ -88,6 +125,6 @@ focus:
 
 <div align="center">
 
-### ✨ "Build. Debug. Grow."
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:7A5CFA"/>
 
 </div>
