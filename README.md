@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:7A5CFA&text=MJ%20👩🏽‍💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20In%20Progress&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:7A5CFA&text=Nzekwe Chinaza%20💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20In%20Progress&descAlignY=58"/>
 
 <br>
 
@@ -45,7 +45,7 @@ life_motto: "Build. Debug. Grow."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,js,python,c,html,css,bash,linux,git,github,vscode,docker,mysql"/>
+<img src="https://skillicons.dev/icons?i=go,git,html,css,linux,github,vscode"/>
 
 </div>
 
@@ -116,7 +116,7 @@ life_motto: "Build. Debug. Grow."
 </a>
 
 <a href="#">
-  <img src="https://skillicons.dev/icons?i=email"/>
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </div>
