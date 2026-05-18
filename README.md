@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm MaryJane</h1>
+<h1 align="center">👋 Hello, I'm Nzekwe chinaza</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=01Edu+Student;Go+Developer+in+Progress;Building+Projects+Daily&center=true&width=500&height=45">
@@ -18,7 +18,7 @@
 ## 🛠 My Skill Set
 
 <p>
-  <img src="https://skillicons.dev/icons?i=go,js,python,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=go,github,vscode" />
 </p>
 
 ---
