@@ -70,8 +70,8 @@ life_motto: "Build. Debug. Grow."
 
 <div align="center">
 
-<a href="#">🌟 Mentor 1</a> •
-<a href="#">🌟 Mentor 2</a> •
+<a href="#">🌟 @caseykingsley77 </a> •
+<a href="#">🌟 @SekavArielight </a> •
 <a href="#">🌟 Mentor 3</a> •
 <a href="#">🌟 Mentor 4</a>
 
@@ -91,6 +91,11 @@ life_motto: "Build. Debug. Grow."
 
 ---
 
+## 📊 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=janaiegeonu&theme=github-dark"/>
+
+
 # 🏆 Achievements
 
 <div align="center">
@@ -109,12 +114,8 @@ life_motto: "Build. Debug. Grow."
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=mail"/>
+<a href=""mailto:nzekwechinaza0613@gmail.com"">
+  <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </div>
