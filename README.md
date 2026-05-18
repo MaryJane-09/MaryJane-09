@@ -109,7 +109,7 @@ life_motto: "Build. Debug. Grow."
   <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href=""mailto:nzekwechinaza0613@gmail.com"">
+<a href="mailto:nzekwechinaza0613@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
