@@ -60,7 +60,7 @@ life_motto: "Build. Debug. Grow."
 
 <div align="center">
 
-<a href="https://github.com/mentor1">@casykingsley77</a> •
+<a href="https://github.com/mentor1">@caseykingsley77</a> •
 <a href="https://github.com/mentor2">@Godswill Sekav Apya</a> •
 <a href="https://github.com/mentor3">@mentor3</a> •
 <a href="https://github.com/mentor4">@mentor4</a>
