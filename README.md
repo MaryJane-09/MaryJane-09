@@ -70,10 +70,10 @@ life_motto: "Build. Debug. Grow."
 
 <div align="center">
 
-<a href="#">🌟 @caseykingsley77 </a> •
-<a href="#">🌟 @SekavArielight </a> •
-<a href="#">🌟 Mentor 3</a> •
-<a href="#">🌟 Mentor 4</a>
+<a href="@caseykingsley77">🌟 </a> •
+<a href="@SekavArielight">🌟 </a> •
+<a href="@Gabizili1">🌟 </a> •
+<a href="#">🌟 </a>
 
 </div>
 
