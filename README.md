@@ -1,124 +1,134 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:7A5CFA&text=MaryJane%20💻&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20In%20Progress&descAlignY=58"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,100:5B5BFF&text=MaryJane%20Dev%20💻&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20In%20Progress&descAlignY=58"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&random=false&width=700&lines=Building+cool+things+with+Go+⚡;01Edu+Student+💻;Backend+Developer+in+Progress+🚀;Build.+Debug.+Grow.+✨" />
-
-<br><br>
-
-<img src="https://github-widgetbox.vercel.app/api/profile?username=MaryJane-09&data=followers,repositories,stars,commits&theme=dark"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=750&lines=Go+Backend+Engineer+⚡;Building+Scalable+APIs+🚀;01Edu+Software+Engineering+Student;Clean+Code+%7C+System+Thinking+%7C+Growth"/>
 
 </div>
 
 ---
 
-# 💫 About Me
-
-<img align="right" width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFvMnR5OXF0Y3V5bTRwbHMyMWI4M3d2aG5hbnV0NWFmMWQ3dG5hZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
+# 🧠 About Me
 
 ```yaml
-current_focus:
-  - Backend Development
-  - Golang
-  - APIs & Servers
-  - System Design
+role: Backend Developer (In Progress)
 
-education:
-  - 01Edu Software Engineering
+focus:
+  - Scalable backend systems
+  - REST APIs using Go
+  - System design fundamentals
 
-hobbies:
-  - Coding
-  - Learning new tech
-  - Building projects
-  - Solving problems
+currently_building:
+  - ASCII Art Web Server (Go)
+  - CLI Password Manager
 
-life_motto: "Build. Debug. Grow."
+mindset: "Build clean. Think deeply. Improve constantly."
+````
+
+---
+
+# ⚙️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,git,github,linux,vscode,postgres"/>
+
+</div>
+
+---
+
+# 📊 Skill Progress
+
+```
+Go Backend Development     ██████████░░░░░░░  70%
+REST API Design            █████████░░░░░░░░  60%
+System Design Basics       ████████░░░░░░░░░  50%
+Concurrency (Goroutines)   ████████░░░░░░░░░  55%
+Problem Solving            ██████████░░░░░░░  70%
+Linux & CLI Tools          █████████░░░░░░░░  60%
 ```
 
-<br><br>
+---
+
+# 🚧 Featured Projects
+
+### ⚡ ASCII Art Web Server (01Edu Project)
+
+* Built with Go HTTP server
+* Converts user input into ASCII banners
+* Handles routing and dynamic responses
 
 ---
 
-# ⚒ Tech Arsenal
+### 🔐 CLI Password Manager (In Progress)
+
+* Secure local storage concept
+* CLI-based tool for credentials
+* Focus on Go fundamentals
+
+---
+
+# 🧭 Current Focus
+
+* Backend systems with Go
+* API design improvement
+* System architecture thinking
+* Clean scalable code
+* Debugging real-world problems
+
+---
+
+# 🌱 Growth Path
+
+* 01Edu Software Engineering Program
+* Open-source contributions
+* Reading production-level Go codebases
+* Daily problem-solving practice
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,html,linux,git,github,vscode"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaryJane-09&theme=tokyonight&hide_border=true"/>
+
+<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaryJane-09&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🚀 Current Mission
+# 📬 Connect With Me
 
 <div align="center">
-
-| Goal | Progress |
-|---|---|
-| Learn Advanced Go | ████████░░ |
-| Backend Development | ███████░░░ |
-| Open Source Contributions | █████░░░░░ |
-| System Design | ████░░░░░░ |
-
-</div>
-
----
-
-# 🤝 Mentors & Inspirations
-
-<div align="center">
-
-<a href="@caseykingsley77">🌟@caseykingsley77 </a> •
-<a href="@SekavArielight">🌟@SekavArielight </a> •
-<a href="@Gabizili1">🌟Gabizili1 </a> •
-<a href="#">🌟 </a>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaryJane-09&theme=tokyonight&hide_border=true&background=00000000"/>
-
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=MaryJane-09&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
-
-</div>
-
----
-
-# 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MaryJane-09&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/MaryJane-09">
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
 
 <a href="mailto:nzekwechinaza0613@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+<a href="https://github.com/MaryJane-09">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
 </div>
+
+---
+
+# 📌 Currently Open To
+
+* Learning opportunities
+* Backend collaborations
+* Open-source contributions
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:7A5CFA"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:5B5BFF"/>
 
 </div>
+
