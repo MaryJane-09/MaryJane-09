@@ -21,10 +21,6 @@ focus:
   - REST APIs using Go
   - System design fundamentals
 
-currently_building:
-  - ASCII Art Web Server (Go)
-  - CLI Password Manager
-
 mindset: "Build clean. Think deeply. Improve constantly."
 ````
 
@@ -60,15 +56,6 @@ Linux & CLI Tools          █████████░░░░░░░░  
 * Built with Go HTTP server
 * Converts user input into ASCII banners
 * Handles routing and dynamic responses
-
----
-
-### 🔐 CLI Password Manager (In Progress)
-
-* Secure local storage concept
-* CLI-based tool for credentials
-* Focus on Go fundamentals
-
 ---
 
 # 🧭 Current Focus
