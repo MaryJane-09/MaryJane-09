@@ -30,7 +30,7 @@ mindset: "Build clean. Think deeply. Improve constantly."
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=go,git,github,linux,vscode,postgres"/>
+<img src="https://skillicons.dev/icons?i=go,git,github,linux,vscode"/>
 
 </div>
 
