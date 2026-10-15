@@ -49,14 +49,6 @@ Linux & CLI Tools          █████████░░░░░░░░  
 
 ---
 
-# 🚧 Featured Projects
-
-### ⚡ ASCII Art Web Server (01Edu Project)
-
-* Built with Go HTTP server
-* Converts user input into ASCII banners
-* Handles routing and dynamic responses
----
 
 # 🧭 Current Focus
 
